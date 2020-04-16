@@ -1,0 +1,13 @@
+E:\Rizaldy\modul4_kel18\percoban C#\Modul4_kel18\bin\Debug\netcoreapp3.1\Modul4_kel18.exe
+E:\Rizaldy\modul4_kel18\percoban C#\Modul4_kel18\bin\Debug\netcoreapp3.1\Modul4_kel18.deps.json
+E:\Rizaldy\modul4_kel18\percoban C#\Modul4_kel18\bin\Debug\netcoreapp3.1\Modul4_kel18.runtimeconfig.json
+E:\Rizaldy\modul4_kel18\percoban C#\Modul4_kel18\bin\Debug\netcoreapp3.1\Modul4_kel18.runtimeconfig.dev.json
+E:\Rizaldy\modul4_kel18\percoban C#\Modul4_kel18\bin\Debug\netcoreapp3.1\Modul4_kel18.dll
+E:\Rizaldy\modul4_kel18\percoban C#\Modul4_kel18\bin\Debug\netcoreapp3.1\Modul4_kel18.pdb
+E:\Rizaldy\modul4_kel18\percoban C#\Modul4_kel18\obj\Debug\netcoreapp3.1\Modul4_kel18.csprojAssemblyReference.cache
+E:\Rizaldy\modul4_kel18\percoban C#\Modul4_kel18\obj\Debug\netcoreapp3.1\Modul4_kel18.csproj.CoreCompileInputs.cache
+E:\Rizaldy\modul4_kel18\percoban C#\Modul4_kel18\obj\Debug\netcoreapp3.1\Modul4_kel18.AssemblyInfoInputs.cache
+E:\Rizaldy\modul4_kel18\percoban C#\Modul4_kel18\obj\Debug\netcoreapp3.1\Modul4_kel18.AssemblyInfo.cs
+E:\Rizaldy\modul4_kel18\percoban C#\Modul4_kel18\obj\Debug\netcoreapp3.1\Modul4_kel18.dll
+E:\Rizaldy\modul4_kel18\percoban C#\Modul4_kel18\obj\Debug\netcoreapp3.1\Modul4_kel18.pdb
+E:\Rizaldy\modul4_kel18\percoban C#\Modul4_kel18\obj\Debug\netcoreapp3.1\Modul4_kel18.genruntimeconfig.cache
