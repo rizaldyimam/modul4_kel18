@@ -1,0 +1,13 @@
+C:\Users\fujitsu\source\repos\Tugas_4\bin\Debug\netcoreapp3.1\Tugas_4.exe
+C:\Users\fujitsu\source\repos\Tugas_4\bin\Debug\netcoreapp3.1\Tugas_4.deps.json
+C:\Users\fujitsu\source\repos\Tugas_4\bin\Debug\netcoreapp3.1\Tugas_4.runtimeconfig.json
+C:\Users\fujitsu\source\repos\Tugas_4\bin\Debug\netcoreapp3.1\Tugas_4.runtimeconfig.dev.json
+C:\Users\fujitsu\source\repos\Tugas_4\bin\Debug\netcoreapp3.1\Tugas_4.dll
+C:\Users\fujitsu\source\repos\Tugas_4\bin\Debug\netcoreapp3.1\Tugas_4.pdb
+C:\Users\fujitsu\source\repos\Tugas_4\obj\Debug\netcoreapp3.1\Tugas_4.csprojAssemblyReference.cache
+C:\Users\fujitsu\source\repos\Tugas_4\obj\Debug\netcoreapp3.1\Tugas_4.csproj.CoreCompileInputs.cache
+C:\Users\fujitsu\source\repos\Tugas_4\obj\Debug\netcoreapp3.1\Tugas_4.AssemblyInfoInputs.cache
+C:\Users\fujitsu\source\repos\Tugas_4\obj\Debug\netcoreapp3.1\Tugas_4.AssemblyInfo.cs
+C:\Users\fujitsu\source\repos\Tugas_4\obj\Debug\netcoreapp3.1\Tugas_4.dll
+C:\Users\fujitsu\source\repos\Tugas_4\obj\Debug\netcoreapp3.1\Tugas_4.pdb
+C:\Users\fujitsu\source\repos\Tugas_4\obj\Debug\netcoreapp3.1\Tugas_4.genruntimeconfig.cache
